@@ -1,2 +1,2 @@
 # Algorithms
-Implementation of Network Flow algorithm Ford-Fulkerson Algorithm
+Implementation of classical algorithms!
